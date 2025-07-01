@@ -22,7 +22,7 @@ Design System
 | `chore:` | 기타 잡일, 리네이밍, 폴더 정리 등     | `chore: Rename search.svg to magnifier.svg`       |
 | `refac:` | 디자인 자산 리팩토링                  | `refac: Optimize SVG paths in all icons`          |
 
----
+
 
 ## 🧑‍🤝‍🧑 Contributors
 
