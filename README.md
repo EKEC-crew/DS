@@ -3,10 +3,16 @@ Design System
 
 
 
-## 🧾 Icons (SVG)
+## 🧾 Directories (SVG)
 
-- `./icons/` 디렉토리에는 모든 `.svg` 아이콘 파일이 포함되어 있습니다.
-- [📂 icons/README.md](./icons/README.md) 에서 **아이콘 목록 및 미리보기 이미지**를 확인할 수 있습니다.
+- 각 디렉토리에는 모든 `.svg` 아이콘 파일이 포함되어 있습니다.
+- 각 디렉토리에 **이미지 미리보기**용 `README.md` 파일을 만들어두었습니다.
+- [📂 icons/README.md](./icons/README.md)
+- [📂 logos/README.md](./logos/README.md)
+- [📂 filters/category/README.md](./filters/category/README.md)
+- [📂 filters/activity/README.md](./filters/activity/README.md)
+- [📂 filters/style/README.md](./filters/style/README.md)
+- [📂 filters/gray/README.md](./filters/gray/README.md)
 
 
 
