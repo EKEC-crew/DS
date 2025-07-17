@@ -7,6 +7,7 @@ TARGET_DIRS = [
     os.path.join("filters", "category"),
     os.path.join("filters", "activity"),
     os.path.join("filters", "style"),
+
     os.path.join("filters", "gray"),
 ]
 

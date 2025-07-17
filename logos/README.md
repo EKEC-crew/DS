@@ -6,6 +6,10 @@ This folder contains the following SVG icon files with previews:
 
 <img src="./LOGO.svg" alt="LOGO.svg" width="48" height="48" />
 
+### ic_logo graphic_26.svg
+
+<img src="./ic_logo graphic_26.svg" alt="ic_logo graphic_26.svg" width="48" height="48" />
+
 ### ic_logo graphic_45.svg
 
 <img src="./ic_logo graphic_45.svg" alt="ic_logo graphic_45.svg" width="48" height="48" />
@@ -13,6 +17,14 @@ This folder contains the following SVG icon files with previews:
 ### ic_logo graphic_74.svg
 
 <img src="./ic_logo graphic_74.svg" alt="ic_logo graphic_74.svg" width="48" height="48" />
+
+### img_crew_banner.svg
+
+<img src="./img_crew_banner.svg" alt="img_crew_banner.svg" width="48" height="48" />
+
+### img_graphic_45.svg
+
+<img src="./img_graphic_45.svg" alt="img_graphic_45.svg" width="48" height="48" />
 
 ### img_logo graphic_100.svg
 
