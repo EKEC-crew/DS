@@ -302,9 +302,41 @@ This folder contains the following SVG icon files with previews:
 
 <img src="./ic_woman_28.svg" alt="ic_woman_28.svg" width="48" height="48" />
 
+### img_graphic2_340.svg
+
+<img src="./img_graphic2_340.svg" alt="img_graphic2_340.svg" width="48" height="48" />
+
+### img_graphic3_340.svg
+
+<img src="./img_graphic3_340.svg" alt="img_graphic3_340.svg" width="48" height="48" />
+
+### img_graphic4_340.svg
+
+<img src="./img_graphic4_340.svg" alt="img_graphic4_340.svg" width="48" height="48" />
+
 ### img_graphic_320.svg
 
 <img src="./img_graphic_320.svg" alt="img_graphic_320.svg" width="48" height="48" />
+
+### img_graphic_320_403.svg
+
+<img src="./img_graphic_320_403.svg" alt="img_graphic_320_403.svg" width="48" height="48" />
+
+### img_graphic_320_404.svg
+
+<img src="./img_graphic_320_404.svg" alt="img_graphic_320_404.svg" width="48" height="48" />
+
+### img_graphic_320_500.svg
+
+<img src="./img_graphic_320_500.svg" alt="img_graphic_320_500.svg" width="48" height="48" />
+
+### img_graphic_320_503.svg
+
+<img src="./img_graphic_320_503.svg" alt="img_graphic_320_503.svg" width="48" height="48" />
+
+### img_graphic_340.svg
+
+<img src="./img_graphic_340.svg" alt="img_graphic_340.svg" width="48" height="48" />
 
 ### kakaotalk.svg
 
