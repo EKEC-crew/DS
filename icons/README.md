@@ -46,6 +46,10 @@ This folder contains the following SVG icon files with previews:
 
 <img src="./google.svg" alt="google.svg" width="48" height="48" />
 
+### ic_ArrowClockwise_100.svg
+
+<img src="./ic_ArrowClockwise_100.svg" alt="ic_ArrowClockwise_100.svg" width="48" height="48" />
+
 ### ic_CalendarCheck_36.svg
 
 <img src="./ic_CalendarCheck_36.svg" alt="ic_CalendarCheck_36.svg" width="48" height="48" />
@@ -97,6 +101,14 @@ This folder contains the following SVG icon files with previews:
 ### ic_Star_36.svg
 
 <img src="./ic_Star_36.svg" alt="ic_Star_36.svg" width="48" height="48" />
+
+### ic_Star_60-1.svg
+
+<img src="./ic_Star_60-1.svg" alt="ic_Star_60-1.svg" width="48" height="48" />
+
+### ic_Star_60.svg
+
+<img src="./ic_Star_60.svg" alt="ic_Star_60.svg" width="48" height="48" />
 
 ### ic_Up_24.svg
 
@@ -166,6 +178,10 @@ This folder contains the following SVG icon files with previews:
 
 <img src="./ic_category_white_36.svg" alt="ic_category_white_36.svg" width="48" height="48" />
 
+### ic_chat_40.svg
+
+<img src="./ic_chat_40.svg" alt="ic_chat_40.svg" width="48" height="48" />
+
 ### ic_check_Deact.svg
 
 <img src="./ic_check_Deact.svg" alt="ic_check_Deact.svg" width="48" height="48" />
@@ -213,6 +229,10 @@ This folder contains the following SVG icon files with previews:
 ### ic_heart_40.svg
 
 <img src="./ic_heart_40.svg" alt="ic_heart_40.svg" width="48" height="48" />
+
+### ic_heart_co_40.svg
+
+<img src="./ic_heart_co_40.svg" alt="ic_heart_co_40.svg" width="48" height="48" />
 
 ### ic_line_ arrow.svg
 
